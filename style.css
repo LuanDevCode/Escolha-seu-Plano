@@ -50,11 +50,17 @@ a:hover{
     margin-left: 20px;
 }
 
+
 .main{
     font-size: 75px;
     text-transform: uppercase;
     color: white;
     text-align: center;
+}
+
+.main:hover{
+   font-size: 80px;
+   transition: 0.5s;
 }
 
 .container{
